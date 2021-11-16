@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
                 stroka=stroka+chars.get(i)+' '
             }
         }
+        println(stroka)
         return stroka
 
 
